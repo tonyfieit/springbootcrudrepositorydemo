@@ -14,9 +14,6 @@
 	    <version>2.0.1.RELEASE</version>
  	    <relativePath/>
 	</parent>
-	<properties>
-	    <java.version>9</java.version>
-	</properties>
 	<dependencies>
 	  <dependency>
 		 <groupId>org.springframework.boot</groupId>
